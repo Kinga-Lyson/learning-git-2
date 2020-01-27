@@ -2,11 +2,12 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+
 }
 .container {
     margin: 0 auto;
     width: 600px;
-    background-color: beige;
+    background-color: lightblue;
     min-height: 100vh;
     padding: 0 80px;
     
